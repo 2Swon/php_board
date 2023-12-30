@@ -3,16 +3,14 @@
 <br>
 # 메뉴구성도
 <br>
-<img src="https://raw.githubusercontent.com/2Swon/php_board/tree/main/php_board/img/1.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://raw.githubusercontent.com/2Swon/php_board/blob/main/php_board/img/1.png" alt="1" style="max-width: 100%;"><br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/2Swon/php_board/tree/main/php_board/img/2.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://raw.githubusercontent.com/2Swon/php_board/blob/main/php_board/img/2.png" alt="1" style="max-width: 100%;"><br>
 <br>
-<img src="https://raw.githubusercontent.com/2Swon/php_board/tree/main/php_board/img/3.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://raw.githubusercontent.com/2Swon/php_board/blob/main/php_board/img/3.png" alt="1" style="max-width: 100%;"><br>
 <br>
-<img src="https://raw.githubusercontent.com/2Swon/php_board/tree/main/php_board/img/4.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://raw.githubusercontent.com/2Swon/php_board/blob/main/php_board/img/4.png" alt="1" style="max-width: 100%;"><br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/2Swon/php_board/tree/main/php_board/img/5.png" alt="1" style="max-width: 100%;"><br>
-
-<img src="https://raw.githubusercontent.com/2Swon/LOL_info_frontproject/main/howLOLwell/img/1.png" alt="1" style="max-width: 100%;"><br>
+<img src="https://raw.githubusercontent.com/2Swon/php_board/blob/main/php_board/img/5.png" alt="1" style="max-width: 100%;"><br>
