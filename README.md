@@ -14,4 +14,3 @@
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/2Swon/php_board/main/php_board/img/5.png" alt="1" style="max-width: 100%;"><br>
-<img src="https://github.com/2Swon/php_board/blob/main/php_board/img/1.png">
